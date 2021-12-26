@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haizel Vitr</title>
-    <link>https://www.witu.cl/haizel/</link>
+    <link>https://haizel.cl/</link>
     <description>Recent content on Haizel Vitr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:05:44 -0400</lastBuildDate><atom:link href="https://www.witu.cl/haizel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 03:05:44 -0400</lastBuildDate><atom:link href="https://haizel.cl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Haizel Vitr</title>
-    <link>https://www.witu.cl/haizel/categories/</link>
+    <link>https://haizel.cl/categories/</link>
     <description>Recent content in Categories on Haizel Vitr</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.witu.cl/haizel/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://haizel.cl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

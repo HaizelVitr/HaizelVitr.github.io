@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retrato on Haizel Vitr</title>
-    <link>https://www.witu.cl/haizel/musica/albums/retrato/</link>
+    <link>https://haizel.cl/musica/albums/retrato/</link>
     <description>Recent content in Retrato on Haizel Vitr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 03:05:11 -0400</lastBuildDate><atom:link href="https://www.witu.cl/haizel/musica/albums/retrato/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2020 03:05:11 -0400</lastBuildDate><atom:link href="https://haizel.cl/musica/albums/retrato/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

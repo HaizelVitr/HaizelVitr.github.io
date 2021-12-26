@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Haizel Vitr</title>
-    <link>https://www.witu.cl/haizel/tags/</link>
+    <link>https://haizel.cl/tags/</link>
     <description>Recent content in Tags on Haizel Vitr</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.witu.cl/haizel/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://haizel.cl/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
