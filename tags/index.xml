@@ -5,6 +5,7 @@
     <link>https://haizel.cl/tags/</link>
     <description>Recent content in Tags on Haizel Vitr</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://haizel.cl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://haizel.cl/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
