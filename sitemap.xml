@@ -1,72 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://haizel.cl/biografia/</loc>
     <lastmod>2020-07-01T22:23:05-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/</loc>
     <lastmod>2020-07-02T02:54:29-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/links/</loc>
     <lastmod>2021-03-13T00:31:35-03:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/</loc>
-    <lastmod>2024-01-19T03:05:44-04:00</lastmod>
-  </url><url>
+    <lastmod>2024-07-02T03:05:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haizel.cl/musica/albums/llacds/</loc>
+    <lastmod>2024-07-02T03:05:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haizel.cl/musica/singles/eterno/</loc>
+    <lastmod>2024-06-01T03:05:44-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/retratohablado/</loc>
     <lastmod>2024-01-19T03:05:44-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/volveranacer/</loc>
     <lastmod>2023-09-01T03:05:44-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/quienpa/</loc>
     <lastmod>2023-04-14T03:05:44-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/serenidad/</loc>
     <lastmod>2021-12-24T03:05:44-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/la-marca/</loc>
     <lastmod>2021-10-08T03:05:44-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/eps/de-aqui-para-arriba/</loc>
     <lastmod>2021-08-31T03:05:11-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/albums/retrato/</loc>
     <lastmod>2020-07-02T03:05:11-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/albums/</loc>
     <lastmod>2020-07-02T02:55:51-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/jaula/</loc>
     <lastmod>2020-02-07T03:05:44-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/nnvac/</loc>
     <lastmod>2019-11-06T03:05:32-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/eps/</loc>
     <lastmod>2019-07-02T02:55:51-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/singles/</loc>
     <lastmod>2018-07-02T02:55:41-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/covers/</loc>
     <lastmod>2017-07-02T02:55:41-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/equipo/</loc>
     <lastmod>2017-07-02T02:55:41-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/presentaciones/</loc>
     <lastmod>2017-07-02T02:55:41-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/jikankey/</loc>
     <lastmod>2016-07-02T02:55:41-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/musica/averagehumanity/</loc>
     <lastmod>2015-07-02T02:55:41-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://haizel.cl/tags/</loc>
   </url>
+  
 </urlset>
